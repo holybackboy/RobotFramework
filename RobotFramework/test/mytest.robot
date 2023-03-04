@@ -12,6 +12,13 @@ Default Tags    sanity
 *** Test Cases ***
 MyFirstTest
     Log     Hellworld...
+    
+MySecondTest
+    Log     This test second...
+    
+MyThirdTest
+    Log     This test third...
+    
 FristSeleniumTest
         
     Create Webdriver     Chrome     executable_path=/Users/daoduydung/Documents/driver/chromedriver.exe
